@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+.profile{
+  width: 500px ;
+  margin-top: 50px;
+}
+.button-link {
+  display: inline-block;
+  padding: 10px 20px;
+  margin: 5px;
+  background-color: #0077b5; /* LinkedIn blue */
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.button-link:hover {
+  background-color: #005582; /* A darker LinkedIn blue for hover effect */
+}
+
+/* You might want to style the Email Me button differently */
